@@ -58,6 +58,7 @@ button:hover{
     font-size: 14px;
 }
 @media (max-width: 600px){
+    
     .board{
         grid-template-columns: repeat(9, 38px);
     }
